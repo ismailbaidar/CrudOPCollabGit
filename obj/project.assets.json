@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\olgas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\ASP.NET\\MVC\\CrudOPCollabGit\\CrudOPCollabGit.csproj",
+      "projectUniqueName": "C:\\Users\\olgas\\Desktop\\CrudOPCollabGit\\CrudOPCollabGit.csproj",
       "projectName": "CrudOPCollabGit",
-      "projectPath": "C:\\Users\\hp\\Desktop\\ASP.NET\\MVC\\CrudOPCollabGit\\CrudOPCollabGit.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\ASP.NET\\MVC\\CrudOPCollabGit\\obj\\",
+      "projectPath": "C:\\Users\\olgas\\Desktop\\CrudOPCollabGit\\CrudOPCollabGit.csproj",
+      "packagesPath": "C:\\Users\\olgas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olgas\\Desktop\\CrudOPCollabGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\olgas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
