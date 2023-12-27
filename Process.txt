@@ -1,0 +1,27 @@
+Team
+Id
+Name
+LeagueName
+List<Players>
+Coach
+
+
+Player				Person
+				Id
+				PlayerName
+				PlayerAge
+				PlayerClub
+PositionId				
+PlayerPosition
+
+
+Position
+Id
+PositionName
+
+
+Coach
+
+
+
+
